@@ -1,0 +1,11 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "author": {
+    "name": "cynic"
+  },
+  "main": "./index.js",
+  "readme": "#Workflow module",
+  "readmeFilename": "README.md",
+  "description": "#Workflow module"
+}
